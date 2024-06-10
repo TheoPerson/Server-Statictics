@@ -1,6 +1,6 @@
 # Server-Statistics Bot
 
-![Server-Statistics](./assets/server-statistics-banner.png)
+![Server-Statistics](./assets/server-statistics-banner (2).png)
 
 A Discord bot to display and update server statistics.
 
