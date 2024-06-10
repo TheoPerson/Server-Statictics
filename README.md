@@ -1,6 +1,7 @@
 # Server-Statistics Bot
 
-![Server-Statistics](./assets/server-statistics-banner (2).png)
+![Server-Statistics](https://github.com/TheoPerson/Server-Statictics/assets/81421985/aefdf5c0-03f7-464f-8889-0680e600f50a)
+
 
 A Discord bot to display and update server statistics.
 
