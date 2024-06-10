@@ -28,7 +28,7 @@ Server-Statistics Bot is a powerful and easy-to-use Discord bot designed to disp
 
 To install and run the bot, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/TheoPerson/Server-Statistics.git
    cd Server-Statistics
